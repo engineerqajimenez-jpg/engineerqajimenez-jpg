@@ -1,7 +1,5 @@
-[README-profile.md](https://github.com/user-attachments/files/28283972/README-profile.md)
 # ¡Hola! Soy Jose Jimenez 👋
-
-### Junior QA Engineer | Manual · API · Automation
+### Junior QA Engineer | Manual · API · Web · Automation
 
 Apasionado por garantizar que el software funcione de manera impecable. Me enfoco en identificar errores antes de que lleguen a los usuarios, combinando sólidas bases de pruebas manuales con automatización y testing de APIs.
 
@@ -30,10 +28,11 @@ Apasionado por garantizar que el software funcione de manera impecable. Me enfoc
 ### 🤖 Automatización
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 - Automatización E2E con Playwright
-- Scripts de prueba en JavaScript/TypeScript
+- Scripts de prueba en JavaScript
+- CI/CD con GitHub Actions
 
 ### 🗄️ Database Testing
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -52,9 +51,9 @@ Apasionado por garantizar que el software funcione de manera impecable. Me enfoc
 
 ## 🚀 ¿En qué estoy trabajando ahora?
 
-- 📂 Construyendo mi portafolio de QA con proyectos reales
-- 🤖 Aprendiendo automatización E2E con **Playwright**
-- 📊 Profundizando en **Database Testing** con MySQL
+- 📂 Portfolio de QA completo con proyectos reales
+- 🤖 Automatización E2E con **Playwright** + **CI/CD** con GitHub Actions
+- 📊 **Database Testing** con MySQL
 - 🔍 Buscando oportunidades para integrarme a un equipo de QA
 
 ---
@@ -63,8 +62,10 @@ Apasionado por garantizar que el software funcione de manera impecable. Me enfoc
 
 | Proyecto | Descripción | Herramientas |
 |---|---|---|
+| [qa-playwright-automation](https://github.com/engineerqajimenez-jpg/qa-playwright-automation) | 15 casos automatizados E2E — Login, Products, Checkout + CI/CD | Playwright, JavaScript, GitHub Actions |
 | [qa-manual-testing](https://github.com/engineerqajimenez-jpg/qa-manual-testing) | Pruebas manuales sobre Sauce Demo | Markdown, Git |
 | [qa-api-portfolio](https://github.com/engineerqajimenez-jpg/qa-api-portfolio) | API Testing (Trello, BookStore) + Database Testing (Sakila) | Postman, MySQL, Git |
+| [qa-web-testing](https://github.com/engineerqajimenez-jpg/qa-web-testing) | Pruebas web sobre OrangeHRM, Buggy Cars, Coderbyte | Markdown, Git |
 
 ---
 
@@ -77,5 +78,4 @@ Mi atención al detalle como QA viene de mi experiencia como PC Gamer. Cuando no
 ## 🤝 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josejimenez07)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:engineerqajimenez@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/engineerqajimenez-jpg)
+[![Email](https://img.shields.io/badge
