@@ -18,5 +18,5 @@ Soy un **Junior QA Analyst** e Ingeniero de Computación en formación, apasiona
 Mi atención al detalle como QA viene de mi experiencia como PC Gamer. Cuando no estoy cazando bugs en aplicaciones web, suelo estar resolviendo conflictos de compatibilidad en mods, configurando servidores multijugador o investigando sobre hardware y redes. 
 
 📫 **Conecta conmigo:**
-* **LinkedIn:** [Inserta aquí tu link de LinkedIn]
+* **LinkedIn:** www.linkedin.com/in/josejimenez07
 * **Email:** engineerqajimenez@gmail.com
