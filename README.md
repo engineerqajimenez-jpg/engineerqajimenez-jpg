@@ -30,9 +30,10 @@ Apasionado por garantizar que el software funcione de manera impecable. Me enfoc
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-- Automatización E2E con Playwright
-- Scripts de prueba en JavaScript
-- CI/CD con GitHub Actions
+- Automatización E2E con Playwright + TypeScript
+- Page Object Model (POM)
+- storageState para autenticación de múltiples usuarios
+- CI/CD con GitHub Actions + reporte público en GitHub Pages
 
 ### 🗄️ Database Testing
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -66,7 +67,7 @@ Apasionado por garantizar que el software funcione de manera impecable. Me enfoc
 | [qa-manual-testing](https://github.com/engineerqajimenez-jpg/qa-manual-testing) | Pruebas manuales sobre Sauce Demo | Markdown, Git |
 | [qa-api-portfolio](https://github.com/engineerqajimenez-jpg/qa-api-portfolio) | API Testing (Trello, BookStore) + Database Testing (Sakila) | Postman, MySQL, Git |
 | [qa-web-testing](https://github.com/engineerqajimenez-jpg/qa-web-testing) | Pruebas web sobre OrangeHRM, Buggy Cars, Coderbyte | Markdown, Git |
-
+| [taller-playwright-atenea](https://github.com/engineerqajimenez-jpg/taller-playwright-atenea) | 16 casos E2E — Atenea Bank (transferencias, login, registro) + CI/CD + GitHub Pages | Playwright, TypeScript, GitHub Actions, MongoDB |
 ---
 
 ## 🎮 Más allá del testing
